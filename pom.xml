@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>S228851</artifactId>
+    <artifactId>shopee_s28851</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>MPR_Poprawka</name>
     <description>MPR_Poprawka</description>
